@@ -1,0 +1,7 @@
+{
+  "name": "Healthcare Nexus",
+  "description": "A comprehensive Hospital Management System featuring real-time appointment scheduling, electronic medical records, and pharmacy management with a modern medical aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
